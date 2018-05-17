@@ -1,0 +1,5 @@
+com\javasampleapproach\datamongodb\model\Contact.class
+com\javasampleapproach\datamongodb\SpringDataMongoDbApplication.class
+com\javasampleapproach\datamongodb\model\Company.class
+com\javasampleapproach\datamongodb\model\Product.class
+com\javasampleapproach\datamongodb\repository\CompanyRepository.class
